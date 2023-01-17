@@ -11,7 +11,7 @@ def findMinSum(num):
     # Return sum of numbers
     # having minimum product
     return sum
-
+#########################################################################
 
 # Driver Code
 num = 12
